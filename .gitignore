@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+etc/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+
+
+sample_logs/*
+logfiles.log
